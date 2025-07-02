@@ -1,0 +1,79 @@
+{
+  "vendors": [
+    {
+      "id": "user-aneenach-vendor",
+      "email": "aneenach@gmail.com",
+      "password":"abc1",
+      "name": "aneenach",
+      "role": "vendor",
+      "createdAt": "2025-03-04T06:36:01.698Z",
+      "service": {
+        "id": "service-1741070161614",
+        "category": "catering",
+        "name": "wedding",
+        "description": "ok",
+        "image": "https://source.unsplash.com/random/800x600/?catering"
+      },
+      "costStructure": "2345",
+      "serviceAreas": [
+        "hyd"
+      ],
+      "specializations": [
+        "rc"
+      ],
+      "bookings": []
+    },
+    {
+      "id": "user-22h51a05m5-vendor",
+      "email": "22h51a05m5@cmrcet.ac.in",
+      "password":"abc2",
+      "name": "22h51a05m5",
+      "role": "vendor",
+      "createdAt": "2025-03-04T06:39:43.856Z",
+      "service": {
+        "id": "service-1741070383850",
+        "category": "event-planning",
+        "name": "premium stage",
+        "description": "ok ok ish",
+        "image": "https://source.unsplash.com/random/800x600/?event-planning"
+      },
+      "costStructure": "2345",
+      "serviceAreas": [
+        "hyd",
+        "sec",
+        "nzmpt"
+      ],
+      "specializations": [
+        "birthday",
+        "testing",
+        "one",
+        "two"
+      ],
+      "bookings": []
+    },
+    {
+      "id": "user-srisir2005-vendor",
+      "email": "srisir2005@outlook.com",
+      "name": "MongoDB test",
+      "password":"abc3",
+      "role": "vendor",
+      "createdAt": "2025-03-20T01:22:00.656Z",
+      "service": {
+        "id": "service-1742433733807",
+        "category": "catering",
+        "name": "Premium",
+        "description": "okok",
+        "image": "https://source.unsplash.com/random/800x600/?catering"
+      },
+      "costStructure": "123456",
+      "serviceAreas": [
+        "hyd",
+        "sec"
+      ],
+      "specializations": [
+        "okok"
+      ],
+      "bookings": []
+    }
+  ]
+}

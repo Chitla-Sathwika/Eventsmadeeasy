@@ -1,0 +1,11 @@
+{
+  "messages": [
+    {
+      "id": "message-1741096538403",
+      "bookingId": "booking-1741095272259",
+      "senderId": "user-22h51a05m5-vendor",
+      "content": "hello\n",
+      "timestamp": "2025-03-04T13:55:38.403Z"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "customers": [
+    {
+      "id": "customer-1741070872667",
+      "email": "srisea2005@gmail.com",
+      "name": "srisea2005",
+      "password" :"abc123",
+      "role": "customer",
+      "createdAt": "2025-03-04T06:47:52.667Z",
+      "phoneNumber": "09573807298",
+      "address": "Plot no.157, H.M.T Sathavahana Nagar, Kukatpally, Hyderabad",
+      "bookings": []
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "bookings": [
+    {
+      "id": "booking-1741072377032",
+      "customerId": "user-1741072310108",
+      "vendorId": "user-22h51a05m5-vendor",
+      "serviceId": "service-1741070383850",
+      "date": "2025-03-12",
+      "time": "12:42",
+      "location": "hyd",
+      "notes": "",
+      "status": "pending",
+      "createdAt": "2025-03-04T07:12:57.032Z"
+    },
+    {
+      "id": "booking-1741072629664",
+      "customerId": "user-1741072604494",
+      "vendorId": "user-22h51a05m5-vendor",
+      "serviceId": "service-1741070383850",
+      "date": "2025-03-12",
+      "time": "12:47",
+      "location": "hyd",
+      "notes": "",
+      "status": "pending",
+      "createdAt": "2025-03-04T07:17:09.664Z"
+    },
+    {
+      "id": "booking-1741072819915",
+      "customerId": "user-1741072799534",
+      "vendorId": "user-22h51a05m5-vendor",
+      "serviceId": "service-1741070383850",
+      "date": "2025-03-12",
+      "time": "12:50",
+      "location": "hyd",
+      "notes": "",
+      "status": "pending",
+      "createdAt": "2025-03-04T07:20:19.915Z"
+    },
+    {
+      "id": "booking-1741073047862",
+      "customerId": "user-1741073015492",
+      "vendorId": "user-22h51a05m5-vendor",
+      "serviceId": "service-1741070383850",
+      "date": "2025-03-13",
+      "time": "12:54",
+      "location": "hyd",
+      "notes": "",
+      "status": "pending",
+      "createdAt": "2025-03-04T07:24:07.862Z"
+    },
+    {
+      "id": "booking-1741073712771",
+      "customerId": "user-srisea2005-customer",
+      "vendorId": "user-22h51a05m5-vendor",
+      "serviceId": "service-1741070383850",
+      "date": "2025-03-12",
+      "time": "13:05",
+      "location": "hyd",
+      "notes": "",
+      "status": "pending",
+      "createdAt": "2025-03-04T07:35:12.771Z"
+    },
+    {
+      "id": "booking-1741074073368",
+      "customerId": "user-srisea2005-customer",
+      "vendorId": "user-22h51a05m5-vendor",
+      "serviceId": "service-1741070383850",
+      "date": "2025-03-12",
+      "time": "13:11",
+      "location": "hyd",
+      "notes": "",
+      "status": "accepted",
+      "createdAt": "2025-03-04T07:41:13.368Z"
+    },
+    {
+      "id": "booking-1741095272259",
+      "customerId": "user-srisea2005-customer",
+      "vendorId": "user-22h51a05m5-vendor",
+      "serviceId": "service-1741070383850",
+      "date": "2025-03-12",
+      "time": "19:04",
+      "location": "hyd",
+      "notes": "",
+      "status": "completed",
+      "createdAt": "2025-03-04T13:34:32.259Z"
+    }
+  ]
+}
